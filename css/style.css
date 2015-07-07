@@ -237,8 +237,8 @@ a {
 }
 .fullbox:after{
     content:"";
-    padding: 10px;  
+    padding: 50px;  
     position: absolute;
-    left: 10px;
-    top: 10px;
+    left: -30px;
+    top: -25px;
 } 

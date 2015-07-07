@@ -232,10 +232,13 @@ a:hover {
 	padding-bottom: 20px;
 	}
 
+a { 
+	position: relative;
+}
 .fullbox:after{
     content:"";
-    padding: 5px;  
+    padding: 10px;  
     position: absolute;
-    left: 5px;
-    top: 5px;
+    left: 10px;
+    top: 10px;
 } 

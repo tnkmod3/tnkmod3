@@ -252,3 +252,7 @@ a {
 	border-style: solid;
 	border-color: black;
 }
+
+.centered { 
+	padding: 5px;
+	}

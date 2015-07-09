@@ -243,3 +243,7 @@ a {
     left: -30px;
     top: -25px;
 } 
+
+.contact-border { 
+	border: 1px solid black;
+}
